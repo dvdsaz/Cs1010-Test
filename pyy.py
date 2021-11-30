@@ -5,7 +5,7 @@ groot = Tk()
 groot.title("GUESS THE WORD: AMONG US EDITION")
 groot.geometry("400x400")
 
-
+#This is a comment change
 # ====================================Functions==============================================
 def runTimer():
     global count2
